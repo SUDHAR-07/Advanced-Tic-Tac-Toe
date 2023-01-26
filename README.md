@@ -1,4 +1,5 @@
-![Screenshot (124)](https://user-images.githubusercontent.com/85281859/214940156-db7bb573-7c41-4ed9-b8e0-e37e22bf0ed6.png)
+![tictactoe](https://user-images.githubusercontent.com/85281859/214940810-de985fdb-f085-4e9f-b544-26e7fa8dcc78.png)
+
 # Advanced-Tic-Tac-Toe
 <b>Advanced Tic-Tac-Toe game using Python<b>
 
